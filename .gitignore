@@ -1,3 +1,6 @@
+# adding movies_metadata because it's too large to push
+movies_metadata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
